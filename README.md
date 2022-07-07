@@ -1,1 +1,1 @@
-A class representing an unweighted class
+A class representing an unweighted graph
